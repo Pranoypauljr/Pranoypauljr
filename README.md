@@ -1,5 +1,6 @@
 # Hi there 👋 
 
+📫 How to reach me:[a link](https://www.linkedin.com/in/pranoy-santhosh-m-902924a4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FdyYre5CRQOcwZMC1CqqOw%3D%3D)
 <!--
 **Pranoypauljr/Pranoypauljr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
