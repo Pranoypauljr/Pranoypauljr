@@ -1,6 +1,6 @@
 # Hi there :sunglasses: 
 
-📫 How to reach me:[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][1] [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][2]
+📫 How to reach me:[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][www.linkedin.com/in/pranoy-santhosh-m-902924a4]
 
 
 💬 Ask me about:Python,Data Science,Machine Learning,Scikit learn,Numpy,Pandas,Matplotlib,Bash scripting(but basic ones;)) related topics
@@ -10,8 +10,8 @@
 
 
 ![Pranoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranoypauljr&theme=chartreuse-dark&show_icons=true)
-//[1]: www.linkedin.com/in/pranoy-santhosh-m-902924a4
-//[2]: https://twitter.com/PranoySanthosh
+#[1]: www.linkedin.com/in/pranoy-santhosh-m-902924a4
+#[2]: https://twitter.com/PranoySanthosh
 
 <!--
 **Pranoypauljr/Pranoypauljr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
