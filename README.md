@@ -1,6 +1,6 @@
 # Hi there :sunglasses: 
 
-📫 How to reach me: [LinkedIN](www.linkedin.com/in/pranoy-santhosh-m-902924a4) [Twitter](https://twitter.com/PranoySanthosh)
+📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/pranoy-santhosh-m-902924a4/) [Twitter](https://twitter.com/PranoySanthosh)
 
 
 💬 Ask me about:Python,Data Science,Machine Learning,Scikit learn,Numpy,Pandas,Matplotlib,Bash scripting(but basic ones;)) related topics
