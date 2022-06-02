@@ -3,7 +3,7 @@
 📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/pranoy-santhosh-m-902924a4/) [Twitter](https://twitter.com/PranoySanthosh)
 
 
-💬 Ask me about:Python,Data Science,Machine Learning,OpenCV,Scikit learn,Numpy,Pandas,Matplotlib,Bash scripting(but basic ones;)) related topics
+💬 Ask me about: anything tech,management and innovation :p
 
 
 ⚡ Fun fact about me:I love to drive cars than i love to code :wink:
