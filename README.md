@@ -3,7 +3,7 @@
 📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/pranoy-santhosh-m-902924a4/) [Twitter](https://twitter.com/PranoySanthosh)
 
 
-💬 Ask me about: anything tech(AI),management and innovation :p
+💬 Ask me about: anything tech(not AI),management and innovation :p
 
 
 ⚡ Fun fact about me:I love to drive cars than i love to code :wink:
